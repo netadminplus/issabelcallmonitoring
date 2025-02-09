@@ -7,7 +7,8 @@
 ---
 
 ## ⚡ Why Issabel Call Monitoring?
-In Issabel 5, the **Operator Panel** has been removed and replaced with **FOP2**, which requires a **$40 commercial license** for large-scale internal extensions.  
+In **Issabel 5**, the **Operator Panel** has been removed and replaced with **FOP2**. While FOP2 offers enhanced features, its **free version** only allows viewing call status. A **$40 commercial license** is required for **full functionality**, including **call transfer and management**, with **no limit on internal extensions**. Additionally, a **$100 White Label license** is available, allowing the **removal of FOP2 branding**.
+  
 **Issabel Call Monitoring** allows you to bring back the **Operator Panel** **for free**, ensuring seamless call monitoring for your VoIP system.
 
 ---
